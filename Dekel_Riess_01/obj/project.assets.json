@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\famil\\RiderProjects\\Dekel_Riess_01\\Dekel_Riess_01\\Dekel_Riess_01.csproj",
+      "projectUniqueName": "C:\\Users\\famil\\Dekel_Riess_01\\Dekel_Riess_01\\Dekel_Riess_01.csproj",
       "projectName": "Dekel_Riess_01",
-      "projectPath": "C:\\Users\\famil\\RiderProjects\\Dekel_Riess_01\\Dekel_Riess_01\\Dekel_Riess_01.csproj",
+      "projectPath": "C:\\Users\\famil\\Dekel_Riess_01\\Dekel_Riess_01\\Dekel_Riess_01.csproj",
       "packagesPath": "C:\\Users\\famil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\famil\\RiderProjects\\Dekel_Riess_01\\Dekel_Riess_01\\obj\\",
+      "outputPath": "C:\\Users\\famil\\Dekel_Riess_01\\Dekel_Riess_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\famil\\AppData\\Roaming\\NuGet\\NuGet.Config"

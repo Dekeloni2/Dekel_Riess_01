@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dekel_Riess_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d0a791bde27e504ef9d62d3d2708f75f7e18660")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dekel_Riess_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dekel_Riess_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

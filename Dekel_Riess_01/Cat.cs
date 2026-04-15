@@ -6,12 +6,7 @@ public class Cat : Animal
     {
         
     }
-
-    public override void DisplayInfo()
-    {
-        Console.WriteLine($"Name: {Name}, Age: {Age}");
-    }
-
+    
     public override void Sound()
     {
         Console.WriteLine($"{Name}::Meow");
